@@ -1,0 +1,41 @@
+.main {
+    margin: auto 30px;
+}
+h1 {
+    clear: both;
+}
+
+@media (min-width: 625px) {
+    .main {
+        width: 600px;
+        margin: auto;
+    }
+    h1 {
+        font-size: 48px;
+        clear: none;
+    }
+
+    .flexbox {
+        display: -webkit-flex;
+        display: flex;
+
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+
+    .flexbox > div {
+        width: 50%;
+        padding: 0 10px;
+    }
+}
+
+p {
+    text-align: justify;
+}
+
+.barrett {
+    height: 110px;
+    float: left;
+    margin-right: 20px;
+}
+
