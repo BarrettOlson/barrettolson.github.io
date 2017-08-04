@@ -1,0 +1,3 @@
+name: Barrett Olson
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
