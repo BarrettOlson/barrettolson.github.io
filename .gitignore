@@ -1,1 +1,9 @@
+*.gem
+*.swp
+*~
+.DS_Store
+.analysis
+.bundle/
+Gemfile.lock
 _site/
+bin/
