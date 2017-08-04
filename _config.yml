@@ -1,3 +1,7 @@
 name: Barrett Olson
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /notes/:year/:month/:day/:title
+collections:
+  notes:
+    output: true
+
