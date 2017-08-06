@@ -7,4 +7,4 @@
 Gemfile.lock
 _site/
 bin/
-.sass-cashe/
+.sass-cache/
