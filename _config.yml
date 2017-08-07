@@ -17,7 +17,7 @@ title: Barrett Olson
 name: Barrett Olson
 email: barrettjolson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Barrett James Olson's personal website. 
+  Barrett's personal website. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BarrettJames
@@ -28,10 +28,13 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins_dir:
   - jekyll-feed
-permalink: /notes/:year/:month/:day/:title
 collections:
+  
   notes:
+    description: "Notes for engr101" 
+    permalink: /notes/:year/:month/:day/:title
     output: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
