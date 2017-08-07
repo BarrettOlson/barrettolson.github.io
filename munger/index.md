@@ -19,7 +19,7 @@ Hello, I am a Resident Advisor (RA) for Munger on second floor. If you have any 
 
 #### Community Center Hours (8th Floor)
 - M-Sat: 9am - 10pm
-- Sun: 12 - 10pm
+- Sun: noon - 10pm
 
 
 
