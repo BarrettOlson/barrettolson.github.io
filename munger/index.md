@@ -15,7 +15,7 @@ Hello, I am a Resident Advisor (RA) for Munger on second floor. If you have any 
 - Repairs and maintenance issues: [fixit](http://housing.umich.edu/fixit)
     - Emergencies - Facilities Service Center: 734-647-2059 
 - Welcome Initiative: [summary/checklist](/munger/welcome_checklist)
-
+- [List of additional campus resources](/munger/campus_resources)
 
 #### Community Center Hours (8th Floor)
 - M-Sat: 9am - 10pm
