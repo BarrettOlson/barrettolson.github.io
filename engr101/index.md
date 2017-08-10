@@ -3,7 +3,7 @@ layout: default
 title: ENGR 101
 ---
 
-## Engeerings 101: Introduction to Computers & Programming
+## Engineerings 101: Introduction to Computers & Programming
 
 Welcome! I will post notes and any slides from Lab here each week. 
 
