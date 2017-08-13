@@ -9,7 +9,7 @@ title: Campus Resources
 - Printing on Campus [MPrint](mprint.umich.edu)  
     - Print to any campus computer through a web browser
 
-- [Magic Bus](http://mbus.doublemap.com/map)
+- [Magic Bus](https://mbus.doublemap.com/map)
     - Live Bus Tracking
 
 - [MCommunity](https://mcommunity.umich.edu/)

@@ -50,5 +50,5 @@ title: Munger
   - There is a thermostat located in the common spaces, as well as in each bedroom
   - Thermostats are calibrated for a maximum temperature setting of 75°F (24°C).
   - Do not Overriding or tampering with the thermostats (potentially hazardous and a contract violation).
-- [Share cleaning guidelines](http://www.housing.umich.edu/system/files/pdfs/cleaning_guidelines_NW45.pdf)
+- [Share cleaning guidelines](https://www.housing.umich.edu/system/files/pdfs/cleaning_guidelines_NW45.pdf)
 - Review cleaning plan for shared spaced in the suite
