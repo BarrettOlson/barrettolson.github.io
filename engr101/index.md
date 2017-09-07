@@ -11,5 +11,7 @@ Welcome! I will post notes and any slides from Lab here each week.
 
 ### Lab 1
 [Lab1 PDF](assets/Lab1.pdf)
+
 [lab1_1.m](assets/lab1_1.m)
+
 [lab1_2.txt](assets/lab1_2.txt)
