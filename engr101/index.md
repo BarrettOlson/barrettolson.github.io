@@ -7,6 +7,8 @@ title: ENGR 101
 
 Welcome! I will post notes and any slides from Lab here each week. 
 
+Thursday 10:30 Lab: [Groups](/groups.md)
+
 [Lab0 PDF](assets/Lab0.pdf)
 
 ### Lab 1

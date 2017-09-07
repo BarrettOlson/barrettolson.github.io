@@ -1,47 +1,47 @@
 ## Thursday 10:30 Lab Groups
 
 ### Group 1	
-Jonathon
-Amanda
-Alexander
-Vydailya
+- Jonathon
+- Amanda
+- Alexander
+- Vydailya
 
 ### Group 2	
-Swayam
-Joseph
-Lydia
-Madeline
+- Swayam
+- Joseph
+- Lydia
+- Madeline
 
 ### Group 3	
-Matthew T
-Nolan
-Rakshita
-Lucy
+- Matthew T
+- Nolan
+- Rakshita
+- Lucy
 
 ### Group 4	
-Andrew
-Callum
-Danielle
-Liying
+- Andrew
+- Callum
+- Danielle
+- Liying
 
 ### Group 5	
-Ved
-Yixin
-Meredith
-Emily
+- Ved
+- Yixin
+- Meredith
+- Emily
 
 ### Group 6	
-Evelyn
-Belinda
-Luke
-Juana
+- Evelyn
+- Belinda
+- Luke
+- Juana
 
 ### Group 7	
-Adam
-Aaron
-Dylan
+- Adam
+- Aaron
+- Dylan
 
 ### Group 8	
-Nathaniel
-Adam
-Parker
+- Nathaniel
+- Adam
+- Parker
