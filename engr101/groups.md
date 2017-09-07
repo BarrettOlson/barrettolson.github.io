@@ -37,11 +37,11 @@
 - Juana
 
 ### Group 7	
-- Adam
+- Adam L
 - Aaron
 - Dylan
 
 ### Group 8	
 - Nathaniel
-- Adam
+- Adam W
 - Parker
