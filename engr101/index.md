@@ -7,5 +7,9 @@ title: ENGR 101
 
 Welcome! I will post notes and any slides from Lab here each week. 
 
-[Lab0](assets/Lab0.pdf)
-[Lab1](assets/Lab1.pdf)
+[Lab0 PDF](assets/Lab0.pdf)
+
+### Lab 1
+[Lab1 PDF](assets/Lab1.pdf)
+[lab1_1.m](assets/lab1_1.m)
+[lab1_2.txt](assets/lab1_2.txt)
