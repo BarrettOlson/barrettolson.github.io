@@ -11,10 +11,8 @@ Welcome! I will post notes and any slides from Lab here each week.
 - Tuesday 1:30-3pm & 6:30-8
 - Friday 1:30-2:30pm
 
-### Lab Groups
-Tuesday 4:30 Lab: [Groups](/groups19.md)
-
-Thursday 10:30 Lab: [Groups](/groups21.md)
-
-Thursday 2:30 Lab: [Groups](/groups22.md)
+#### Lab Groups
+- [Sec 19 Tuesday 4:30](/groups19.md)
+- [Sec 21 Thursday 10:30](/groups21.md)
+- [Sec 22 Thursday 2:30](/groups22.md)
 
