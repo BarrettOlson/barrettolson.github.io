@@ -16,3 +16,10 @@ Welcome! I will post notes and any slides from Lab here each week.
 - [Sec 21 Thursday 10:30](/groups21.md)
 - [Sec 22 Thursday 2:30](/groups22.md)
 
+### Lab Resources
+
+Lab1 [Lecture Review]()
+
+Lab2 [Lecture Review]()
+
+Lab3 [Lecture Review]()
