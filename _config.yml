@@ -29,7 +29,6 @@ theme: jekyll-theme-cayman
 plugins_dir:
   - jekyll-feed
 collections:
-  
   notes:
     description: "Notes for engr101" 
     permalink: /notes/:year/:month/:day/:title

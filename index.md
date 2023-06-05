@@ -9,5 +9,3 @@ description: Barrett's Personal Website
 You can get in touch with me [here](/contact) :)
 
 [Learn more about me...](/about)  
-
-I love [feedback](/feedback)!  
