@@ -12,9 +12,11 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.github.project_tagline }}</h2>
+      {% unless page.url == '/' %}
+        <h2 class="project-tagline">{{ page.description | default: site.github.project_tagline }}</h2>
+      {% endunless %}
       <a href="/" class="btn">/</a>
-      <a href="/about" class="btn">About</a>
+      <a href="/contact" class="btn">Contact</a>
     </section>
 
     <section class="main-content">
@@ -28,16 +30,5 @@
       </footer>
     </section>
 
-    {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
   </body>
 </html>

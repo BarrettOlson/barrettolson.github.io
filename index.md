@@ -6,6 +6,4 @@ description: Barrett's Personal Website
 
 # Hi there, I'm Barrett  
 
-You can get in touch with me [here](/contact) :)
-
-[Learn more about me...](/about)  
+Trying to get in touch? [Contact me](/contact).
